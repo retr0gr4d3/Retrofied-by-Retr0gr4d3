@@ -1,0 +1,41 @@
+{
+    "name": "Graded",
+    "author": "Retr0gr4d3",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "size": 18,
+        "textAlign": "right",
+        "offsetX": -6,
+        "offsetY": 4,
+        "fixed": true
+    },
+    "title": {
+        "font": "Retrofont-Regular.ttf",
+        "size": 24,
+        "color": "#a703f8"
+    },
+    "hint": {
+        "font": "Retrofont-Regular.ttf",
+        "size": 18,
+        "color": "#a703f8"
+    },
+    "currentpage": {
+        "color": "#a703f8"
+    },
+    "total": {
+        "color": "#a703f8"
+    },
+    "grid": {
+        "font": "Retrofont-Regular.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#00ffd7",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
